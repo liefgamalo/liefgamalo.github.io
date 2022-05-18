@@ -3155,6 +3155,28 @@ html {
 #gallery .thumb > h2 {
     right: 2.1875em;
 }
+.morePhoto a {
+	color: var(--main-color) !important;
+	text-transform: none;
+	white-space: pre-wrap;
+	text-decoration: none;
+	border: 0.5px solid #c9c9c9;
+	padding: 1rem 3rem;
+	display: block;
+	width: fit-content;
+	margin: auto;
+	letter-spacing: 0.1em;
+	font-weight: 300;
+	cursor: pointer;
+}
+.morePhoto p {
+	margin-top: 1%;
+}
+.morePhoto {
+	/* width: fit-content; */
+	margin: auto;
+	text-align: center;
+}
 
 /* MEDIAS */
 #content h2 {
