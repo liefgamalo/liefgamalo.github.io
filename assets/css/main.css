@@ -3287,3 +3287,8 @@ form input {
     	margin-left: -12em;
 	}
 }
+@media screen and (max-width: 400px) {
+	.morePhoto a {
+		padding: 1rem;
+	}
+}
