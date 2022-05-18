@@ -3169,6 +3169,8 @@ html {
 	font-weight: 300;
 	cursor: pointer;
 }
+.morePhoto a:hover {
+	color: #34a58e
 .morePhoto p {
 	margin-top: 1%;
 }
