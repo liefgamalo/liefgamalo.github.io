@@ -3002,6 +3002,10 @@ input, select, textarea {
 	line-height: 1rem;
 	font-size: .8rem;
 }
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
 
 /* PUBLICATION */
 
@@ -3207,6 +3211,13 @@ html {
 	right: 0;
 	width: 100%;
 	height: 100%;
+}
+
+.novid.responsive-iframe {
+	display: flex;
+	justify-content: center;
+    align-items: center;
+    background: black;
 }
 
 /* FOOTER */
